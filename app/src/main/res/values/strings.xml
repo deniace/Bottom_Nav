@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bottom Nav</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="plus">Plus</string>
+    <string name="love">Love</string>
+    <string name="profile">Profile</string>
+    <string name="build">Build</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere pellentesque lectus placerat pulvinar. Maecenas rhoncus dui quis diam aliquam, at sodales ex finibus. Ut ac turpis et nisi ullamcorper cursus id eu massa. Proin varius dolor at nisi gravida consectetur. Nullam dapibus tristique neque in ultrices. Donec laoreet sapien sed sapien convallis, sit amet laoreet nisi facilisis. Morbi a lectus id nisi egestas gravida at et risus. Nulla feugiat porttitor urna sit amet efficitur. Integer sit amet dolor ut nisi eleifend aliquet. Suspendisse quis sem a nibh varius tristique. Suspendisse potenti. Etiam ac purus faucibus, vestibulum massa at, porttitor quam.
+
+Phasellus id placerat nunc. Aenean bibendum dui ante, eu eleifend metus sodales eget. Vivamus pulvinar lacus risus, vel sollicitudin nunc pellentesque at. Proin auctor id eros sit amet finibus. Nulla at pulvinar lorem, ut efficitur risus. Curabitur in risus ornare, pharetra nisl eget, accumsan metus. Ut lacinia id lectus a aliquet. Phasellus fringilla vulputate ex a malesuada. Nullam vel iaculis diam.
+
+Pellentesque commodo orci eu lorem viverra, non pharetra orci aliquet. Quisque sed scelerisque urna, in maximus nibh. Nullam sed luctus lorem, pulvinar iaculis erat. Nulla nec molestie enim. Nam tincidunt tempor leo, non pellentesque erat sodales ac. Integer faucibus, nibh ut egestas facilisis, felis tortor tristique lectus, ac euismod nunc magna nec quam. Suspendisse iaculis egestas massa, id facilisis sem mollis a. Sed varius sodales justo, vitae posuere turpis bibendum vel. Mauris ante odio, condimentum cursus ex eget, imperdiet venenatis ligula. Cras a elit risus. Nulla mollis mauris mauris. Suspendisse molestie, nisi ut egestas bibendum, mi lectus scelerisque tellus, nec tincidunt dolor ligula ut quam. Sed nec lacus magna.
+
+In sed cursus nisi. Duis consequat facilisis est, vitae pretium enim porttitor nec. Duis nec aliquam massa. Proin at tortor id purus scelerisque imperdiet vel vel nulla. Nunc consectetur magna dapibus rhoncus elementum. In vulputate suscipit elit vitae maximus. Suspendisse id pulvinar magna. Donec elementum eros ac tellus vulputate ornare. Curabitur lacinia pretium fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi a ipsum eu erat sagittis ultrices in a nisl. Suspendisse potenti. Suspendisse facilisis sit amet neque ac ultrices. Cras lacinia, lacus gravida pretium molestie, nulla leo laoreet dolor, sed placerat ante diam non dolor.
+
+Nulla tincidunt, tellus in tristique auctor, nibh erat varius ex, nec pretium justo erat vel velit. Duis dictum nibh urna, a interdum sem tempus sed. Nulla vehicula sodales turpis nec congue. Etiam vitae blandit dui, vitae semper nunc. Phasellus tristique lorem nec elit sodales, vehicula consequat nunc auctor. Sed eget pretium felis. Vestibulum dapibus quam ac odio maximus luctus et a quam. Fusce sollicitudin justo lorem, nec dapibus arcu finibus eget. Maecenas semper elit vitae massa gravida tristique. Sed viverra sem at bibendum congue. Nam dictum elit sit amet tortor placerat semper. Integer consectetur lectus ut metus lobortis, in blandit dolor tempor. Fusce mi est, blandit quis magna eu, mattis iaculis orci. Aenean arcu dolor, molestie vel elit et, hendrerit egestas nulla. Sed porttitor, nulla ut commodo ultricies, risus nulla suscipit arcu, ac molestie augue lacus eu libero. Sed congue eget diam in bibendum.</string>
+</resources>

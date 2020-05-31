@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Created by Deni Supriyatna (deni ace) on 31 - 05 - 2020.-->
+<!--Email : denisupriyatna01@gmail.com-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btm_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/btm_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search"/>
+    <item
+        android:id="@+id/btm_plus"
+        android:icon="@drawable/ic_add_box"
+        android:title="@string/plus"/>
+
+    <item
+        android:id="@+id/btm_build"
+        android:icon="@drawable/ic_build"
+        android:title="@string/build"/>
+
+    <item
+        android:id="@+id/btm_profile"
+        android:icon="@drawable/ic_account_circle"
+        android:title="@string/profile"/>
+
+
+</menu>
